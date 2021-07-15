@@ -1,4 +1,4 @@
-(defproject workshub/re-frame "0.10.7-SNAPSHOT"
+(defproject workshub/re-frame "0.10.8-SNAPSHOT"
   :description  "A Clojurescript MVC-like Framework For Writing SPAs Using Reagent."
   :url          "https://github.com/workshub/re-frame.git"
   :license      {:name "MIT"}
